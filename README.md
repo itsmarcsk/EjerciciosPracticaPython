@@ -1,4 +1,4 @@
-#Estos ejercicios tendrán que estar dentro de una clase y quiero que crees de cada función su test unitario
+**Estos ejercicios tendrán que estar dentro de una clase y quiero que crees de cada función su test unitario**
     
     1. Suma de dos números:
     Escribe una función llamada suma que tome dos números como argumentos y devuelva la suma de esos dos números.
